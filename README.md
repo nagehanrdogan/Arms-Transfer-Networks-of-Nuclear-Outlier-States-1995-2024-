@@ -25,7 +25,7 @@ Data is **not included** in this repository due to licensing restrictions.
 pip install pandas numpy networkx matplotlib
 
 ## Usage
-Open `NA-Outsider-NPT.ipynb` and run cells in order.  
+Open `Network-Analysis-Outsider-NPT.ipynb` and run cells in order.  
 Outputs are saved to the `outputs/` folder.
 
 ## Country Groups
