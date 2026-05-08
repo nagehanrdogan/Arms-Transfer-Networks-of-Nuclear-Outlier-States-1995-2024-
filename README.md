@@ -1,4 +1,4 @@
-# Arms-Transfer-Networks-of-Nuclear-Outlier-States-1995-2024-
+# Arms-Transfer-Networks-of-Nuclear-Outlier-States-1995-2024
 *Nagehan Reyhan Doğan** | PhD Candidate, Istanbul University | 2026
 
 ---
