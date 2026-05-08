@@ -1,6 +1,9 @@
 # Arms-Transfer-Networks-of-Nuclear-Outlier-States-1995-2024
 *Nagehan Reyhan Doğan** | PhD Candidate, Istanbul University | 2026
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Data](https://img.shields.io/badge/data-SIPRI-green.svg)
+![Field](https://img.shields.io/badge/field-SNA%20|%20IR-red.svg)
 ---
 
 ## Research Question
